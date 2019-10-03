@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Hello 2016"
+subtitle:   " \"Hello World, Hello Blog\""
+date:       2016-11-08 12:00:00
+author:     "cuizhazha"
+header-img: "img/post-bg-2015.jpg"
+catalog: true
+tags:
+    - cuizhazha
+    - Meta
+---
+
+> “Yeah It's on. ”
+
+
+## 前言
+
+cuizhazha
+
